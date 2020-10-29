@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Parstagram
 //
-//  Created by Kathrina Waugh on 10/26/20.
+//  Created by Bunmi Oluwatudimu on 10/26/20.
 //
 
 import UIKit
