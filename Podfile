@@ -10,5 +10,6 @@ target 'Parstagram' do
   pod 'Parse'
   pod 'Alamofire', '~> 5.1'
   pod 'AlamofireImage', '~> 4.1.0'
+  pod 'MessageInputBar'
 
 end
